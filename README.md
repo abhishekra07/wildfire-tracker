@@ -6,13 +6,13 @@ This Project Trackes the wildfire in the world using Google Maps And NASA API.
 
 google-map-react is a component written over a small set of the Google Maps API. It allows you to render any React component on the Google Map.
 
-### `npm install --save google-map-react`
+#### `npm install --save google-map-react`
 
 ## @iconify
 
 Iconify is a modern open source SVG alternative to glyph fonts.
 
-### `npm install @iconify/react`
+#### `npm install @iconify/react`
 
 ## NASA EONET API
 
